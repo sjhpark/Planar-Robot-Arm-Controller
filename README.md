@@ -17,6 +17,7 @@ Divided each movement of the manipulator into 21 separate stages and optimized t
 ## Calculation
 - Inverse Kinematics for calculating each joint angle, given the desired (x,y) position of the end effector.
 - Forward Kinematics for moving the each arm segment and the end effector to the corresponding position when given joint angles.
+
 Implemented Inverse Kinematics for the elbow-up and elbow-down cases and Forward Kinematics in Python.
 
 ## Demonstration
