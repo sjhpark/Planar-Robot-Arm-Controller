@@ -2,5 +2,4 @@
 3R Planar Manipulator (Robot Arm) Controller
 
 
-https://user-images.githubusercontent.com/83327791/218353620-4374474c-f1a0-4db6-aef0-7ea48ec341df.mp4
-
+![Demo2](https://user-images.githubusercontent.com/83327791/218354007-a96a0428-d6f8-49cd-9362-824eb18e18cb.gif)
