@@ -1,7 +1,11 @@
 # Planar-Robot-Arm-Controller
 3R Planar Manipulator (Robot Arm) Controller
 ---
-Created a controller for the movement of a 3-jointed planar arm end-effector.
+Created a controller for the movement of a 3-jointed planar arm end-effector using Python.
+
+Dependencies:
+- Numpy
+- Tkinter
 
 Implemented mouse interaction using the tkinter Python module so that users can click anywhere in the grid in the controller window to move the 3R planar maniuplator.
 
